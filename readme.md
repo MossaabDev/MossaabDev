@@ -22,40 +22,30 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://MossaabDev.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://MossaabDev.com">Mossaab</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://proglobby.hashnode.dev/">「 My Blog 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Algeria</b> 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://MossaabDev.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="MossaabDev" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://www.linkedin.com/in/mousaab-bachagha-900438276/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MossaabDev"/>
  </a>
- <!-- <a href="https://dev.to/MossaabDev" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="MossaabDev" />
- </a> -->
- <a href="https://twitter.com/MossaabDev_dev" target="_blank">
+ 
+ <a href="https://twitter.com/MossaabDev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/MossaabDev_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="MossaabDev" />
- </a> 
- <a href="https://facebook.com/MossaabDev.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="MossaabDev"  />
-  </a> 
+ 
 </p>
 <br />
 
@@ -63,7 +53,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="[/assets/programmer.gi](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)f" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
