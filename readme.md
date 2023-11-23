@@ -53,7 +53,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="[/assets/programmer.gi](https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)f" alt="Coding gif" />
+ <img align="right" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
