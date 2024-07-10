@@ -17,6 +17,10 @@
 </h3>
 
 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F49539664635866600%2F&psig=AOvVaw0w2dzjGuPv6lDEYc2lrwrI&ust=1720671422839000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCvs93Om4cDFQAAAAAdAAAAABAE"/>
+
+
+
 <p align="center"> 
   <samp>
     <a href="https://proglobby.hashnode.dev/">「 My Blog 」</a>
@@ -46,12 +50,4 @@
 
 
 ## Most used languages
-<div style="align:center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MossaabDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-</br>
-<br/>
-<br/>
-<br/>
-<br/>
-![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=MossaabDev&custom_title=MyGraph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MossaabDev&layout=compact&align=center)](https://github.com/anuraghazra/github-readme-stats)
