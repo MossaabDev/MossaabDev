@@ -17,9 +17,7 @@
 </h3>
 
 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F49539664635866600%2F&psig=AOvVaw0w2dzjGuPv6lDEYc2lrwrI&ust=1720671422839000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCvs93Om4cDFQAAAAAdAAAAABAE"/>
-
-
+  
 
 <p align="center"> 
   <samp>
@@ -40,7 +38,9 @@
 <br />
 
 <!-- About Section -->
-
+<div align="center">
+  <img src="https://github.com/MossaabDev/MossaabDev/blob/main/assets/-%20Find%20&%20Share%20on%20GIPHY.gif?raw=true"/>
+</div>
 
 ## Use To Code
 
