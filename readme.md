@@ -42,7 +42,7 @@
   <img src="https://github.com/MossaabDev/MossaabDev/blob/main/assets/-%20Find%20&%20Share%20on%20GIPHY.gif?raw=true"/>
 </div>
 
-## Use To Code
+## Used To Code With
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,rust,c,wasm,js,html,css,kotlin)](https://skillicons.dev)
